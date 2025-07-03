@@ -20,3 +20,6 @@ This repository contains my coursework and projects from the Convex Optimization
 
 # Bonus Project
   Implementation of Adaptive Step-Size for convex optimization
+
+# Honors
+  I ranked among the top students in this course.
