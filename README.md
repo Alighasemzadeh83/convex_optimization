@@ -1,6 +1,6 @@
 # Convex Optimization
 
-📚 **Course taught by Dr. Rouhollah Amiri | Spring 2025, EE Department**
+📚 **Course taught by Dr. Rouhollah Amiri | EE Department**
 
 This repository contains my coursework, notes, and projects from the *Convex Optimization* class.  
 It explores the mathematical foundations of convex analysis, optimization algorithms, and their applications to engineering and data science.
